@@ -1,3 +1,9 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = http://github.com/tpope/vim-fugitive.git
+[submodule "ctags.vim"]
+	path = ctags.vim
+	url = https://github.com/vim-scripts/ctags.vim.git
+[submodule "bundle/ctags"]
+	path = bundle/ctags
+	url = https://github.com/vim-scripts/ctags.vim.git
