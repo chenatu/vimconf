@@ -7,3 +7,24 @@
 [submodule "bundle/ctags"]
 	path = bundle/ctags
 	url = https://github.com/vim-scripts/ctags.vim.git
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/cscope"]
+	path = bundle/cscope
+	url = https://github.com/vim-scripts/cscope.vim.git
+[submodule "bundle/OmniCppComplete"]
+	path = bundle/OmniCppComplete
+	url = https://github.com/vim-scripts/OmniCppComplete.git
+[submodule "bundle/SuperTab"]
+	path = bundle/SuperTab
+	url = https://github.com/vim-scripts/SuperTab.git
+[submodule "bundle/winmanager"]
+	path = bundle/winmanager
+	url = https://github.com/vim-scripts/winmanager.git
+[submodule "bundle/nerdtree-ack"]
+	path = bundle/nerdtree-ack
+	url = https://github.com/vim-scripts/nerdtree-ack.git
+[submodule "bundle/minibufexplorerpp"]
+	path = bundle/minibufexplorerpp
+	url = https://github.com/vim-scripts/minibufexplorerpp.git
