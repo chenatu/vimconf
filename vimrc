@@ -26,14 +26,6 @@ endfunction
 
 nmap wm :WMToggle<CR>
 
-function! <SID>ToggleWindowsManager()
-  if IsWinManagerVisible()
-     call s:CloseWindowsManager()
-  else
-     call s:StartWindowsManager()
-     exe 'q'
-  end
-endfunction
 colo evening
 set autoindent
 set tabstop=4
